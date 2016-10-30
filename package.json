@@ -1,0 +1,17 @@
+{
+  "name": "js-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/sarmadbokhari/js-stack",
+    "type": "git"
+  },
+  "author": "Sarmad Bokhari <sarmadhbokhari@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "color": "^0.11.3"
+  }
+}
