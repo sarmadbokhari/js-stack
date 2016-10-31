@@ -1,11 +1,11 @@
 class Dog {
-    constructor(name) {
-      this.name = name;
-    }
+  constructor(name) {
+    this.name = name;
+  }
 
-    bark(sound) {
-      return `${sound} is the bark ${this.name} makes`
-    }
+  bark(sound) {
+    return `${sound} is the bark ${this.name} makes`;
+  }
 }
 
 // export default class {
@@ -19,4 +19,4 @@ class Dog {
 // }
 
 // class is exposed to other code via module.exports assignment
-export default Dog
+export default Dog;
